@@ -1,6 +1,4 @@
-# 📅 app-scheduling
-
-## Serviço de Agendamento
+# 📅 Serviço de Agendamento
 
 ### Tecnologias do Front-End
 - React Js
